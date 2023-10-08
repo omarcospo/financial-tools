@@ -10,7 +10,7 @@ from faker import Faker
 csv_file = "cashflow.csv"
 file_exists = os.path.isfile(csv_file)
 
-# Which informations I need in my cashflow TODO:
+# TODO: Which informations I need in my cashflow
 # - date, description, category, amount, payment, account, client
 column_headers = [
     "date",
