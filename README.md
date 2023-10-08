@@ -28,9 +28,9 @@ This project utilizes several Python libraries to implement its functionality:
 - `os`: Used for checking the existence of files.
 - `sys`: Makes it possible to run the python file with arguments.
 - `csv`: Used for reading and writing CSV files.
-- `pandas`: A powerful data manipulation library that is employed for data processing and analysis.
+- `pandas`: A powerful data manipulation library.
 - `random`: Used to generate random data, including numbers.
-- `Faker`: Utilized to generate fake data, which can be helpful for testing and creating sample transactions.
+- `Faker`: Utilized to generate fake data (names, addresses, generic text etc.).
 
 Make sure to install these libraries if they are not already installed in your Python environment by using the appropriate package manager, such as `pip`:
 
